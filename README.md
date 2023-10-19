@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Elevator Control project powered by Altera Cyclone II FPGA! This project serves as a comprehensive solution for elevator management, providing a simulated four-story elevator system with advanced features.
+Welcome to the Elevator Control project powered by Altera Cyclone II FPGA! This project serves as a comprehensive solution for elevator management, providing a simulated four-story elevator system with advanced features. This project implements an elevator control system using an Altera Cyclone II FPGA board. The prototype simulates a four-story elevator with floor sensors, call buttons, a safety mechanism, and emergency switches. The precise position of the cabin is tracked using floor sensors, and safety devices ensure reliable operation. Users can call the elevator from each floor using dedicated buttons. Additionally, emergency switches allow for quick management of critical situations. This project provides a solid foundation for the development and understanding of embedded control systems
 
 ## Key Features
 
